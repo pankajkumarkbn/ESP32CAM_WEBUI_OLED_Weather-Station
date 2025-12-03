@@ -30,6 +30,7 @@ An ESP32‑CAM based **animated weather station** with both an **OLED dashboard*
 <img src="ESP32CAM_WEBUI_OLED_Weather-Station3.jpeg" width="320" height="320">
 <img src="ESP32CAM_WEBUI_OLED_Weather-Station2.jpeg" width="320" height="320">
 <img src="ESP32CAM_WEBUI_OLED_Weather-Station1.jpeg" width="320" height="320">
+<img src="esp32cam_webui.png" width="480" height="720">
 
 ***
 
